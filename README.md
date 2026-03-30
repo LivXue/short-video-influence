@@ -95,7 +95,7 @@ Run evaluation on the held-out test dataset to get performance metrics:
 python test.py
 ```
 The script will output three standard evaluation metrics:
-- **Accuracy**: Classification accuracy for 1-5 influence rating levels
+- **Accuracy**: Classification accuracy for 0-9 influence rating levels
 - **MSE**: Mean Squared Error for regression performance
 - **MAE**: Mean Absolute Error for prediction error
 
